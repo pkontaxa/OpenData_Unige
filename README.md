@@ -10,11 +10,11 @@ Each folder contains an exercise for each 45 minute session.
 ## Resources
 
 The ATLAS detector and LHC:
-[ATLAS Gloassy](http://opendata.atlas.cern/books/current/get-started/_book/GLOSSARY.html#event)
+- [ATLAS Glossary](http://opendata.atlas.cern/books/current/get-started/_book/GLOSSARY.html#event)
 
 ATLAS Open Data useful links:
-[ATLAS Opne Data main page](http://opendata.atlas.cern/)
-[Description of ATLAS 13 TeV open data](http://opendata.atlas.cern/release/2020/documentation/datasets/intro.html)
-[Description of Monte Carlo (simulation) samples](http://opendata.atlas.cern/release/2020/documentation/datasets/mc.html)
-[Links to Mone Carlo samples](http://opendata.atlas.cern/release/2020/documentation/datasets/files.html)
-[List of data content](http://opendata.atlas.cern/release/2020/documentation/datasets/dataset13.html)
+- [ATLAS Open Data main page](http://opendata.atlas.cern/)
+- [Description of ATLAS 13 TeV open data](http://opendata.atlas.cern/release/2020/documentation/datasets/intro.html)
+- [Description of Monte Carlo (simulation) samples](http://opendata.atlas.cern/release/2020/documentation/datasets/mc.html)
+- [Links to Mone Carlo samples](http://opendata.atlas.cern/release/2020/documentation/datasets/files.html)
+- [List of data content](http://opendata.atlas.cern/release/2020/documentation/datasets/dataset13.html)
