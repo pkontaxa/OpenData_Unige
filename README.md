@@ -20,3 +20,7 @@ ATLAS Open Data useful links:
 - [Description of Monte Carlo (simulation) samples](https://opendata.atlas.cern/docs/documentation/overview_data/data_education_2020#processes)
 - [Description of ATLAS 13 TeV datasets](https://opendata.atlas.cern/docs/documentation/data_format/access#13-tev-data-for-education)
 - [Link to all MC & data datasets](https://atlas-opendata.web.cern.ch/atlas-opendata/samples/2020/)
+
+## Authors
+- Pantelis Kontaxakis
+- Claire Antel
