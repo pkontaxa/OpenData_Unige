@@ -2,6 +2,7 @@ name: analysis
 channels:
     - conda-forge
 dependencies:
+  - python=3.9
   - root
   - pip
   - uproot3
@@ -15,4 +16,5 @@ dependencies:
   - pip:
       - vector
       - jupyterlab_latex
+      - atlasopenmagic
 
